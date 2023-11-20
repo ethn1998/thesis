@@ -1,0 +1,40 @@
+# Mac OS X files
+.DS_Store
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+.glide/
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# output of the program
+evodevo
+*.pdf
+*.dat
+*.json
+*.dot
+
+analysis/.Rhistory
+train/train
+runsim/runsim
+ccphenv/ccphenv
+pgproj/pgproj
+pgproj2/pgproj2
+geneal/geneal
+pgcov/pgcov
+pegcov/pegcov
+gepcpd/gepcpd
+Rscripts/.Rhistory
